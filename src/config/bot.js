@@ -8,11 +8,11 @@ module.exports = {
     },
 
     discord: {
-        id: process.env.DISCORD_ID,
+        id: process.env.DISCORD_ID, 1382445959895843029
         prefix: '!',
         footer: `2021 - ${new Date().getFullYear()}`, 
-        botInvite: `https://discord.com/oauth2/authorize?&client_id=840212110817755157&scope=applications.commands+bot&permissions=8`,
-        serverInvite: "https://discord.gg/qHXxpQKC2H",
+        botInvite: `https://discord.com/oauth2/authorize?client_id=1382445959895843029&permissions=8&integration_type=0&scope=bot+applications.commands`,
+        serverInvite: "https://discord.gg/HE9UC9cC",
     },
 
     wordList: `Airplane
